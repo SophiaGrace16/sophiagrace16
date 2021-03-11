@@ -1,0 +1,1 @@
+[![Sophia's GitHub Banner](./assets/GitHubHeader.png)](https://sophiagwhite.com)
