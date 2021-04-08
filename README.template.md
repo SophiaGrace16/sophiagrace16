@@ -37,7 +37,7 @@
 </a>
 
 <a href="https://github.com/SophiaGrace16">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaGrace16&title_color=ffffff&text_color=ffffff&icon_color=A2644C&bg_color=0B2932&hide=less,html,css" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaGrace16&title_color=ffffff&text_color=ffffff&icon_color=A2644C&bg_color=0B2932&hide=less,css" />
 </a>
 
 <br>
