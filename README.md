@@ -10,19 +10,19 @@
 <br>
 
 <a href="https://github.com/SophiaGrace16/HouseofTrivia">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=HouseofTrivia&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=0B2932" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=HouseofTrivia&title_color=ffffff&text_color=ffffff&icon_color=A2644C&bg_color=0B2932&hide=description" />
 </a>
 
 <a href="https://github.com/SophiaGrace16/TheDungeon">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=TheDungeon&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=0B2932" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=TheDungeon&title_color=ffffff&text_color=ffffff&icon_color=A2644C&bg_color=0B2932&hide=description" />
 </a>
 
 <a href="https://github.com/SophiaGrace16/personal_website_frontend">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=personal_website_frontend&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=0B2932" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=personal_website_frontend&title_color=ffffff&text_color=ffffff&icon_color=A2644C&bg_color=0B2932&hide=description" />
 </a>
 
 <a href="https://github.com/SophiaGrace16/js_project_frontend">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=js_project_frontend&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=0B2932" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=js_project_frontend&title_color=ffffff&text_color=ffffff&icon_color=A2644C&bg_color=0B2932&hide=description" />
 </a>
 
 <br>
@@ -33,15 +33,50 @@
 <br>
 
 <a href="https://github.com/SophiaGrace16">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaGrace16&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SophiaGrace16&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=4AB097&bg_color=0B2932" alt="Sophia's GitHub Stats" />
 </a>
 
 <a href="https://github.com/SophiaGrace16">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SophiaGrace16&hide=stars,issues&show_icons=true&line_height=27&count_private=true&title_color=FBF5E9&text_color=FBF5E9&icon_color=4AB097&bg_color=0B2932" alt="Sophia's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaGrace16&title_color=ffffff&text_color=ffffff&icon_color=A2644C&bg_color=0B2932&hide=less,css" />
 </a>
 
 <br>
 <br>
+
+## 💼 Skills
+
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Sinatra-informational?style=flat&logoColor=white&color=4AB197)
+
+<details>
+<summary>More Skills</summary>
+<br>
+
+![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Development-OOP-informational?style=flat&logo=oop&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Development-BDD-informational?style=flat&logo=bdd&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Development-TDD-informational?style=flat&logo=tdd&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Development-CRUD-informational?style=flat&logo=crud&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Development-MVC-informational?style=flat&logo=mvc&logoColor=white&color=4AB197)
+
+
+<br>
+
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Microsoft-informational?style=flat&logo=microsoft&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Adobe-informational?style=flat&logo=Adobe&logoColor=white&color=4AB197)
+
+
+</details>
 
 <!--
 **SophiaGrace16/sophiagrace16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
