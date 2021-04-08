@@ -45,35 +45,35 @@
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Sinatra-informational?style=flat&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=for-the-badge&logo=ruby&logoColor=white&color=7C8D80)
+![](https://img.shields.io/badge/Code-Rails-informational?style=for-the-badge&logo=ruby-on-rails&logoColor=white&color=7C8D80)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=7C8D80)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=7C8D80)
+![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=Redux&logoColor=white&color=7C8D80)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=7C8D80)
+![](https://img.shields.io/badge/Code-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=7C8D80)
+![](https://img.shields.io/badge/Code-Sinatra-informational?style=for-the-badge&logoColor=white&color=7C8D80)
 
 <details>
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Development-OOP-informational?style=flat&logo=oop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Development-BDD-informational?style=flat&logo=bdd&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Development-TDD-informational?style=flat&logo=tdd&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Development-CRUD-informational?style=flat&logo=crud&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Development-MVC-informational?style=flat&logo=mvc&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=7C8D80)
+![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=7C8D80)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=for-the-badge&logo=Bootstrap&logoColor=white&color=7C8D80)
+![](https://img.shields.io/badge/Development-OOP-informational?style=for-the-badge&logo=oop&logoColor=white&color=7C8D80)
+![](https://img.shields.io/badge/Development-BDD-informational?style=for-the-badge&logo=bdd&logoColor=white&color=7C8D80)
+![](https://img.shields.io/badge/Development-TDD-informational?style=for-the-badge&logo=tdd&logoColor=white&color=7C8D80)
+![](https://img.shields.io/badge/Development-CRUD-informational?style=for-the-badge&logo=crud&logoColor=white&color=7C8D80)
+![](https://img.shields.io/badge/Development-MVC-informational?style=for-the-badge&logo=mvc&logoColor=white&color=7C8D80)
 
 
 <br>
 
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Microsoft-informational?style=flat&logo=microsoft&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Adobe-informational?style=flat&logo=Adobe&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&color=7C8D80)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=7C8D80)
+![](https://img.shields.io/badge/Tools-Microsoft-informational?style=for-the-badge&logo=microsoft&logoColor=white&color=7C8D80)
+![](https://img.shields.io/badge/Tools-Adobe-informational?style=for-the-badge&logo=Adobe&logoColor=white&color=7C8D80)
 
 
 </details>
