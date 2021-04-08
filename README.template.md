@@ -33,11 +33,13 @@
 <br>
 
 <a href="https://github.com/SophiaGrace16">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaGrace16&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SophiaGrace16&hide=stars,issues&show_icons=true&line_height=27&count_private=true&title_color=FBF5E9&text_color=FBF5E9&icon_color=4AB097&bg_color=0B2932" alt="Sophia's GitHub Stats" />
 </a>
 
+<br>
+
 <a href="https://github.com/SophiaGrace16">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SophiaGrace16&hide=stars,issues&show_icons=true&line_height=27&count_private=true&title_color=FBF5E9&text_color=FBF5E9&icon_color=4AB097&bg_color=0B2932" alt="Sophia's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaGrace16&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=1A2B34" />
 </a>
 
 <br>
