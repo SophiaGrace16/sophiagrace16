@@ -47,7 +47,7 @@
 
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=rails&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Sinatra-informational?style=flat&logo=sinatra&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Sinatra-informational?style=flat&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
