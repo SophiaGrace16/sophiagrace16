@@ -42,3 +42,37 @@
 
 <br>
 <br>
+
+## 💼 Skills
+
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Sinatra-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+
+<details>
+<summary>More Skills</summary>
+<br>
+
+![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Development-OOP-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Development-BDD-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Development-TDD-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Development-CRUD-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Development-MVC-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+
+
+<br>
+
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Microsoft-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Adobe-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
+
+
+</details>
