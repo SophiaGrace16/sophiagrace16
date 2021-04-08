@@ -58,22 +58,22 @@
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Style-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=A2644C)
+![](https://img.shields.io/badge/Style-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=5F6D62)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=A2644C)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=for-the-badge&logo=Bootstrap&logoColor=white&color=A2644C)
-![](https://img.shields.io/badge/Development-OOP-informational?style=for-the-badge&logo=oop&logoColor=white&color=A2644C)
-![](https://img.shields.io/badge/Development-BDD-informational?style=for-the-badge&logo=bdd&logoColor=white&color=A2644C)
-![](https://img.shields.io/badge/Development-TDD-informational?style=for-the-badge&logo=tdd&logoColor=white&color=A2644C)
-![](https://img.shields.io/badge/Development-CRUD-informational?style=for-the-badge&logo=crud&logoColor=white&color=A2644C)
-![](https://img.shields.io/badge/Development-MVC-informational?style=for-the-badge&logo=mvc&logoColor=white&color=A2644C)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=for-the-badge&logo=Bootstrap&logoColor=white&color=5F6D62)
+![](https://img.shields.io/badge/Development-OOP-informational?style=for-the-badge&logo=oop&logoColor=white&color=5F6D62)
+![](https://img.shields.io/badge/Development-BDD-informational?style=for-the-badge&logo=bdd&logoColor=white&color=5F6D62)
+![](https://img.shields.io/badge/Development-TDD-informational?style=for-the-badge&logo=tdd&logoColor=white&color=5F6D62)
+![](https://img.shields.io/badge/Development-CRUD-informational?style=for-the-badge&logo=crud&logoColor=white&color=5F6D62)
+![](https://img.shields.io/badge/Development-MVC-informational?style=for-the-badge&logo=mvc&logoColor=white&color=5F6D62)
 
 
 <br>
 
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&color=A2644C)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=A2644C)
-![](https://img.shields.io/badge/Tools-Microsoft-informational?style=for-the-badge&logo=microsoft&logoColor=white&color=A2644C)
-![](https://img.shields.io/badge/Tools-Adobe-informational?style=for-the-badge&logo=Adobe&logoColor=white&color=A2644C)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&color=165264)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=165264)
+![](https://img.shields.io/badge/Tools-Microsoft-informational?style=for-the-badge&logo=microsoft&logoColor=white&color=165264)
+![](https://img.shields.io/badge/Tools-Adobe-informational?style=for-the-badge&logo=Adobe&logoColor=white&color=165264)
 
 
 </details>
