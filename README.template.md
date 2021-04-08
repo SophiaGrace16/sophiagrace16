@@ -10,19 +10,19 @@
 <br>
 
 <a href="https://github.com/SophiaGrace16/HouseofTrivia">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=HouseofTrivia&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=0B2932" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=HouseofTrivia&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=0B2932&hide=description" />
 </a>
 
 <a href="https://github.com/SophiaGrace16/TheDungeon">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=TheDungeon&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=0B2932" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=TheDungeon&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=0B2932&hide=description" />
 </a>
 
 <a href="https://github.com/SophiaGrace16/personal_website_frontend">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=personal_website_frontend&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=0B2932" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=personal_website_frontend&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=0B2932&hide=description" />
 </a>
 
 <a href="https://github.com/SophiaGrace16/js_project_frontend">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=js_project_frontend&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=0B2932" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=js_project_frontend&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=0B2932&hide=description" />
 </a>
 
 <br>
