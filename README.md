@@ -59,7 +59,7 @@
 <br>
 
 ![](https://img.shields.io/badge/Style-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=5F6D62)
-![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=A2644C)
+![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=5F6D62)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=for-the-badge&logo=Bootstrap&logoColor=white&color=5F6D62)
 ![](https://img.shields.io/badge/Development-OOP-informational?style=for-the-badge&logo=oop&logoColor=white&color=5F6D62)
 ![](https://img.shields.io/badge/Development-BDD-informational?style=for-the-badge&logo=bdd&logoColor=white&color=5F6D62)
