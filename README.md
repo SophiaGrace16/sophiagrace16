@@ -10,7 +10,7 @@
 <br>
 
 <a href="https://github.com/SophiaGrace16/HouseofTrivia">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=HouseofTrivia&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=0B2932" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=Houseof&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=0B2932" />
 </a>
 
 <a href="https://github.com/SophiaGrace16/TheDungeon">
@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://github.com/SophiaGrace16/js_project_frontend">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=js_project_frontend&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=0B2932" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SophiaGrace16&repo=js_project&title_color=FBF5E9&text_color=FBF5E9&icon_color=A2644C&bg_color=0B2932" />
 </a>
 
 <br>
