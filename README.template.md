@@ -7,7 +7,7 @@
 
 ## Nice to meet you!
 
-Hi! My name is Sophia White, and it is great to meet you! I am a math and science teacher turned Full-Stack Software Engineer. As a teacher I used my leadership, creativity, and planning skills every day. Combined with my new-found love for Ruby and JavaScript programming, I am ready to bring all of the excitement and energy to my new career!
+Hi! My name is Sophia White, and it is great to meet you! I am a math and science teacher turned Full-Stack Software Engineer. As a teacher, I used my leadership, creativity, and planning skills every day. Combined with my new-found love for Ruby and JavaScript programming, I am ready to bring all of the excitement and energy to my new career!
 
 I enjoy working individually and collaboratively to create innovative, attractive, and functional websites - from concept to finished product. I have a passion for front-end work, because that is where my creativity really shines! I have always been a determined, proactive, and dedicated life-long learner adept in a wide array of programming languages & web tools.
 
